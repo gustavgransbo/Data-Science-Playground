@@ -4,3 +4,4 @@ spamassassin_public_corpus
 archive.ics.uci.edu
 *.npy
 *.xml
+*.mp3
