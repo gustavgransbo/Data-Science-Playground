@@ -5,3 +5,4 @@ archive.ics.uci.edu
 *.npy
 *.xml
 *.mp3
+__pycache__
