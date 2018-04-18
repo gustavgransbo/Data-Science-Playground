@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import json
 
 
 # The Client ID of the Happify Application

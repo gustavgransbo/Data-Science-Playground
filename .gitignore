@@ -6,3 +6,4 @@ archive.ics.uci.edu
 *.xml
 *.mp3
 __pycache__
+*.pkl
