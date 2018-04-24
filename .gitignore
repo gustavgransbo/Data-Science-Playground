@@ -1,9 +1,19 @@
-.ipynb_checkpoints
-*.csv
+
+# Data Sets
 spamassassin_public_corpus
 archive.ics.uci.edu
-*.npy
+
+# Data
 *.xml
 *.mp3
+*.csv
+
+# Python
 __pycache__
 *.pkl
+*.npy
+.ipynb_checkpoints
+
+# Tensorflow
+*.ckpt.*
+checkpoint
