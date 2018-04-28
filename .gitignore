@@ -17,3 +17,6 @@ __pycache__
 # Tensorflow
 *.ckpt.*
 checkpoint
+
+# Keras
+keras_models
