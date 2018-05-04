@@ -4,6 +4,7 @@ spamassassin_public_corpus
 archive.ics.uci.edu
 UD
 word2vec
+data
 
 # Data
 *.xml
