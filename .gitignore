@@ -5,6 +5,7 @@ archive.ics.uci.edu
 UD
 word2vec
 data
+glove
 
 # Data
 *.xml
