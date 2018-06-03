@@ -6,6 +6,7 @@ UD
 word2vec
 data
 glove
+stanford_parser
 
 # Data
 *.xml
