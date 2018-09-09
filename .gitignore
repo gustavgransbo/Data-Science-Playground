@@ -26,5 +26,8 @@ checkpoint
 # Keras
 keras_models
 
+# PyTorch
+pytorch_models
+
 # Other
 Literature
